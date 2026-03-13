@@ -38,19 +38,19 @@ A interface do aplicativo foi projetada para ser clara, moderna e fácil de usar
 
 Esta tela exibe o mapa com a localização do usuário e os pontos de coleta próximos, permitindo uma visualização rápida e intuitiva. O design foi atualizado para refletir a paleta de cores vinho e branco.
 
-![Interface do Aplicativo Descarte Farma - Navegação](assets/assetsimagesdescarte_farma_detalhes_360.png)
+![Interface do Aplicativo Descarte Farma - Navegação](assets/assetsimagesdescarte_farma_navegacao_original_vinho.png)
 
 #### Tela de Detalhes do Ponto de Coleta
 
 Ao selecionar um ponto de coleta, esta tela oferece uma visão detalhada do local, incluindo a funcionalidade de visualização 360° (similar ao Street View) para auxiliar na identificação visual. As informações de descarte e opções de rota também estão presentes.
 
-![Interface do Aplicativo Descarte Farma - Detalhes com Visão 360°](/home/ubuntu/descarte_farma_detalhes_360.png)
+![Interface do Aplicativo Descarte Farma - Detalhes com Visão 360°](assets/assetsimagesdescarte_farma_detalhes_360.png)
 
 #### Guia Rápido de Descarte
 
 Esta tela apresenta um guia conciso e visualmente organizado sobre como descartar diferentes tipos de medicamentos, garantindo que o usuário tenha acesso rápido às informações corretas.
 
-![Interface do Aplicativo Descarte Farma - Guia Rápido](/home/ubuntu/descarte_farma_guia_rapido.png)
+![Interface do Aplicativo Descarte Farma - Guia Rápido](assets/assetsimagesdescarte_farma_guia_rapido.png)
 
 ### Como Contribuir
 
@@ -60,6 +60,8 @@ Interessado em fazer parte desta iniciativa? Sinta-se à vontade para:
 *   Enviar `pull requests` com novas funcionalidades ou correções.
 *   Compartilhar a ideia e ajudar a conscientizar mais pessoas.
 
-### Licença
+### Direitos Autorais e Propriedade Intelectual
 
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT ).
+Este projeto, incluindo seu conceito, funcionalidades e design de interface, é de propriedade exclusiva do autor. **Todos os direitos são reservados.**
+
+A reprodução, distribuição, modificação ou uso comercial de qualquer parte deste projeto sem a autorização prévia e expressa do autor é estritamente proibida. O conteúdo deste repositório serve apenas para fins de demonstração e portfólio pessoal.
