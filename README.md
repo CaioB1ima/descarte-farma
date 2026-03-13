@@ -38,7 +38,7 @@ A interface do aplicativo foi projetada para ser clara, moderna e fácil de usar
 
 Esta tela exibe o mapa com a localização do usuário e os pontos de coleta próximos, permitindo uma visualização rápida e intuitiva. O design foi atualizado para refletir a paleta de cores vinho e branco.
 
-![Interface do Aplicativo Descarte Farma - Navegação](/home/ubuntu/descarte_farma_navegacao_original_vinho.png)
+![Interface do Aplicativo Descarte Farma - Navegação](assets/assetsimagesdescarte_farma_detalhes_360.png)
 
 #### Tela de Detalhes do Ponto de Coleta
 
