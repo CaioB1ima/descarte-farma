@@ -205,7 +205,7 @@ Se encontrar problemas:
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto é de propriedade exclusiva do autor. Todos os direitos são reservados.
 Caio Barbosa de Lima
