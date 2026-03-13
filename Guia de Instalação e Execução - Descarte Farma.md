@@ -1,6 +1,6 @@
-# 🚀 Guia de Instalação e Execução - Descarte Farma
+#  Guia de Instalação e Execução - Descarte Farma
 
-## 📋 Pré-requisitos
+##  Pré-requisitos
 
 Antes de começar, certifique-se de que você tem instalado em seu computador:
 
@@ -9,7 +9,7 @@ Antes de começar, certifique-se de que você tem instalado em seu computador:
 
 ---
 
-## 📥 Passo 1: Baixar o Projeto
+##  Passo 1: Baixar o Projeto
 
 ### Opção A: Baixar do Google Drive (ZIP)
 
@@ -28,7 +28,7 @@ cd descarte-farma-prototype
 
 ---
 
-## 💻 Passo 2: Abrir o Terminal na Pasta do Projeto
+##  Passo 2: Abrir o Terminal na Pasta do Projeto
 
 ### No Windows (CMD - Recomendado)
 
@@ -68,7 +68,7 @@ cd descarte-farma-prototype
 
 ---
 
-## 📦 Passo 3: Instalar as Dependências
+##  Passo 3: Instalar as Dependências
 
 Execute um dos comandos abaixo no terminal:
 
@@ -97,7 +97,7 @@ npm install
 
 ---
 
-## 🎮 Passo 4: Executar o Projeto
+##  Passo 4: Executar o Projeto
 
 Após a instalação das dependências, execute:
 
@@ -113,28 +113,28 @@ Você verá uma mensagem no terminal como:
 
 ---
 
-## 🌐 Passo 5: Acessar o Protótipo
+##  Passo 5: Acessar o Protótipo
 
 1. Abra seu navegador (Chrome, Firefox, Edge, Safari, etc.)
 2. Acesse: **http://localhost:5173/**
-3. Pronto! O protótipo do **Descarte Farma** estará rodando! 🎉
+3. Pronto! O protótipo do **Descarte Farma** estará rodando! 
 
 ---
 
-## 🎨 O que Você Verá
+##  O que Você Verá
 
 O protótipo inclui:
 
-✅ **Tela de Navegação (Mapa)** - Visualize os pontos de coleta no mapa interativo  
-✅ **Tela de Detalhes** - Informações detalhadas com simulação de visão 360°  
-✅ **Guia Rápido** - Instruções sobre como descartar medicamentos  
-✅ **Design Responsivo** - Interface em forma de celular  
-✅ **Cores Oficiais** - Vermelho Vinho (#800020) e Branco  
-✅ **Navegação Fluida** - Transições suaves entre as telas  
+• **Tela de Navegação (Mapa)** - Visualize os pontos de coleta no mapa interativo  
+• **Tela de Detalhes** - Informações detalhadas com simulação de visão 360°  
+• **Guia Rápido** - Instruções sobre como descartar medicamentos  
+• **Design Responsivo** - Interface em forma de celular  
+• **Cores Oficiais** - Vermelho Vinho (#800020) e Branco  
+• **Navegação Fluida** - Transições suaves entre as telas  
 
 ---
 
-## 🛠️ Troubleshooting (Solução de Problemas)
+##  Troubleshooting (Solução de Problemas)
 
 ### Erro: "npm: comando não encontrado"
 
@@ -164,7 +164,7 @@ npm run dev -- --port 3000
 
 ---
 
-## 📝 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 descarte-farma-prototype/
@@ -183,7 +183,7 @@ descarte-farma-prototype/
 
 ---
 
-## 🚀 Próximos Passos
+##  Próximos Passos
 
 Após rodar o projeto localmente, você pode:
 
@@ -194,7 +194,7 @@ Após rodar o projeto localmente, você pode:
 
 ---
 
-## 📞 Suporte
+##  Suporte
 
 Se encontrar problemas:
 
@@ -208,6 +208,8 @@ Se encontrar problemas:
 ## 📄 Licença
 
 Este projeto é de propriedade exclusiva do autor. Todos os direitos são reservados.
+Caio Barbosa de Lima
+Lucas
 
 ---
 
