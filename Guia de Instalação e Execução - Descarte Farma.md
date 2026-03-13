@@ -14,7 +14,7 @@ Antes de começar, certifique-se de que você tem instalado em seu computador:
 ### Opção A: Baixar do Google Drive (ZIP)
 
 1. Acesse o link do Google Drive fornecido
-2. Clique em **"Download"** para baixar o arquivo `descarte-farma-prototype.zip`
+2. Clique em **"Download"** para baixar o arquivo `descarte-farma-prototype.zip` https://drive.google.com/drive/folders/13WKS3Ay33F18mCHAg1AJoaqgnwxnPQVX?usp=drive_link
 3. Extraia o arquivo em seu computador:
    - **Windows**: Clique direito → **"Extrair tudo"**
    - **Mac/Linux**: Abra o terminal e execute: `unzip descarte-farma-prototype.zip`
