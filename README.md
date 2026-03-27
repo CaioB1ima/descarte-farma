@@ -64,4 +64,4 @@ Interessado em fazer parte desta iniciativa? Sinta-se à vontade para:
 
 Este projeto, incluindo seu conceito, funcionalidades e design de interface, é de propriedade exclusiva do autor. **Todos os direitos são reservados.**
 
-A reprodução, distribuição, modificação ou uso comercial de qualquer parte deste projeto sem a autorização prévia e expressa do autor é estritamente proibida. O conteúdo deste repositório serve apenas para fins de demonstração e portfólio pessoal.
+A reprodução, distribuição, modificação ou uso comercial de qualquer parte deste projeto sem a autorização prévia e expressa do autor é estritamente proibida. O conteúdo deste repositório serve apenas para fins de demonstração e 
